@@ -100,5 +100,5 @@ array_push($badwords,
 		'wetback',
 		'whor',
 		'whore',
-		'wog',
+		'wog'
 );

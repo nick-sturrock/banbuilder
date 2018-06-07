@@ -1,4 +1,9 @@
 <?php
+
+if (!isset($badwords)) {
+    $badwords = [];
+}
+
 /**
  * PHP Array for English words
  */
